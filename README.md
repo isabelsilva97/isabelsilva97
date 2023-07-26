@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm 👩‍💻Ana Isabel Silva👩‍💻, a Frontend Developer passionate about crafting delightful web experiences.
 
-- 💻 Knowledge In:
+- 💻 Skills In:
   - HTML & HTML5
   - CSS & CSS3
   - Bootstrap
