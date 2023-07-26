@@ -13,7 +13,7 @@ I'm 👩‍💻Ana Isabel Silva👩‍💻, a Frontend Developer passionate abou
   - React
 
 
-- 🌱My Learning Focus:
+- 🌱 My Learning Focus:
   - Improving my proficiency in Angular and React.
   - Exploring advanced CSS techniques for creative and responsive designs.
   - Learning about Progressive Web Apps (PWAs) and their implementation.
