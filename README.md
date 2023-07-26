@@ -48,7 +48,7 @@ Thanks for visiting – Happy coding! 😄
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=isabelsilva97&theme=default&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=isabelsilva97&theme=default&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=isabelsilva97&theme=default&hide_border=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelsilva97&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
