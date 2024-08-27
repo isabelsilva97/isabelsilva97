@@ -9,9 +9,6 @@ I'm 👩‍💻Ana Isabel Silva👩‍💻, a Frontend Developer passionate abou
   - TypeScript
   - Angular
 
-- 📚 Currently Learning:
-  - React
-
 
 - 🌱 My Learning Focus:
   - Improving my proficiency in Angular and React.
