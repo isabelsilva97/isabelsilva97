@@ -5,6 +5,7 @@ I'm 👩‍💻Ana Isabel Silva👩‍💻, a Frontend Developer passionate abou
   - HTML & HTML5
   - CSS & CSS3
   - Bootstrap
+  - Tailwind CSS
   - JavaScript
   - TypeScript
   - Angular
